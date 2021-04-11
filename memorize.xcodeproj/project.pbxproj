@@ -14,6 +14,7 @@
 		A70FB7E42621E84F0051055A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A70FB7E32621E84F0051055A /* Preview Assets.xcassets */; };
 		A70FB7E72621E84F0051055A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A70FB7E52621E84F0051055A /* LaunchScreen.storyboard */; };
 		A70FB7F02621E9210051055A /* MemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = A70FB7EF2621E9210051055A /* MemoryGame.swift */; };
+		A70FB7F72621EB5B0051055A /* EmojiMemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = A70FB7F62621EB5B0051055A /* EmojiMemoryGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A70FB7E62621E84F0051055A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A70FB7E82621E84F0051055A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A70FB7EF2621E9210051055A /* MemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryGame.swift; sourceTree = "<group>"; };
+		A70FB7F62621EB5B0051055A /* EmojiMemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiMemoryGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				A70FB7DC2621E84E0051055A /* SceneDelegate.swift */,
 				A70FB7DE2621E84E0051055A /* ContentView.swift */,
 				A70FB7EF2621E9210051055A /* MemoryGame.swift */,
+				A70FB7F62621EB5B0051055A /* EmojiMemoryGame.swift */,
 				A70FB7E02621E84F0051055A /* Assets.xcassets */,
 				A70FB7E52621E84F0051055A /* LaunchScreen.storyboard */,
 				A70FB7E82621E84F0051055A /* Info.plist */,
@@ -152,6 +155,7 @@
 				A70FB7DD2621E84E0051055A /* SceneDelegate.swift in Sources */,
 				A70FB7F02621E9210051055A /* MemoryGame.swift in Sources */,
 				A70FB7DF2621E84E0051055A /* ContentView.swift in Sources */,
+				A70FB7F72621EB5B0051055A /* EmojiMemoryGame.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
